@@ -294,7 +294,7 @@ perl popoolation2_1201/fst-sliding.pl \
 --min-covered-fraction 0 \
 --window-size 100000 \
 --step-size 10000 \
---pool-size 15:30:50 \
+--pool-size 16:30 \
 --suppress-noninformative
 ```
 
